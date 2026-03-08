@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/AllyPry/Privacy-Collection/blob/main/privacy.png" width="300" alt="alt text">
+</div>
+
 # Anthropic-Collection
 Usefull links and tools for Claude
 
